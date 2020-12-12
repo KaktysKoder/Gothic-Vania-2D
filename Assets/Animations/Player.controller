@@ -366,25 +366,25 @@ AnimatorStateMachine:
     m_Position: {x: 360, y: 210, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -341360695590519112}
-    m_Position: {x: 860, y: 110, z: 0}
+    m_Position: {x: 600, y: 290, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1690983554789084700}
-    m_Position: {x: 880, y: 220, z: 0}
+    m_Position: {x: 620, y: 400, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -60730736770205713}
-    m_Position: {x: 1120, y: 220, z: 0}
+    m_Position: {x: 860, y: 400, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3157700757745341704}
-    m_Position: {x: 1090, y: -20, z: 0}
+    m_Position: {x: 830, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2727308475915382449}
-    m_Position: {x: 1120, y: 110, z: 0}
+    m_Position: {x: 860, y: 290, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4129410147868168946}
     m_Position: {x: 360, y: 280, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3498945477619553847}
-    m_Position: {x: 840, y: -20, z: 0}
+    m_Position: {x: 580, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4660135328668181303}
     m_Position: {x: 360, y: 340, z: 0}
