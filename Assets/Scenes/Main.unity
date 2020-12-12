@@ -426,6 +426,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 3
+  heightRestrictions: 0.4
   boxCollider1: {fileID: 700087167}
   boxCollider2: {fileID: 700087168}
 --- !u!61 &700087167
